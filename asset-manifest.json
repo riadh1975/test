@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ordinateure-Shop/static/css/main.0e9905b7.css",
+    "main.js": "/Ordinateure-Shop/static/js/main.9d0231ba.js",
+    "static/js/787.cda612ba.chunk.js": "/Ordinateure-Shop/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Ordinateure-Shop/index.html",
+    "main.0e9905b7.css.map": "/Ordinateure-Shop/static/css/main.0e9905b7.css.map",
+    "main.9d0231ba.js.map": "/Ordinateure-Shop/static/js/main.9d0231ba.js.map",
+    "787.cda612ba.chunk.js.map": "/Ordinateure-Shop/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e9905b7.css",
+    "static/js/main.9d0231ba.js"
+  ]
+}
